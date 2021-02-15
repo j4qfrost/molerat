@@ -19,3 +19,15 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+
+.buildlog
+.pub/
+build/
+packages
+workspace.xml
+Dart_Packages.xml
+.DS_Store
+.idea/
+*.aqueduct.pid
+config.yaml
+migrations/
